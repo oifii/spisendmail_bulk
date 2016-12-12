@@ -1,0 +1,10 @@
+can't send faster than 10sec per email
+can't send to hotmail.com accounts.
+ok with gmail.com accounts
+ok with oifii.org mail accounts.
+
+
+to see if blacklisted:
+http://www.mxtoolbox.com
+
+http://www.rackaid.com/blog/hotmail-blacklist-removal/

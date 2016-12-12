@@ -1,0 +1,1 @@
+spisendmail smtp.vif.com stephane.poirier@oifii.org stephane.pe.poirier@gmail.com message.txt "this is my subject line"
